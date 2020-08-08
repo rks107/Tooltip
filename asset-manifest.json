@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tooltip/static/css/main.8c14d97f.chunk.css",
+    "main.js": "/Tooltip/static/js/main.fa57dc8f.chunk.js",
+    "main.js.map": "/Tooltip/static/js/main.fa57dc8f.chunk.js.map",
+    "runtime-main.js": "/Tooltip/static/js/runtime-main.33c194d2.js",
+    "runtime-main.js.map": "/Tooltip/static/js/runtime-main.33c194d2.js.map",
+    "static/css/2.673b3409.chunk.css": "/Tooltip/static/css/2.673b3409.chunk.css",
+    "static/js/2.d297557c.chunk.js": "/Tooltip/static/js/2.d297557c.chunk.js",
+    "static/js/2.d297557c.chunk.js.map": "/Tooltip/static/js/2.d297557c.chunk.js.map",
+    "index.html": "/Tooltip/index.html",
+    "precache-manifest.29e427e7a388ddfc3010987e4410e1d9.js": "/Tooltip/precache-manifest.29e427e7a388ddfc3010987e4410e1d9.js",
+    "service-worker.js": "/Tooltip/service-worker.js",
+    "static/css/2.673b3409.chunk.css.map": "/Tooltip/static/css/2.673b3409.chunk.css.map",
+    "static/css/main.8c14d97f.chunk.css.map": "/Tooltip/static/css/main.8c14d97f.chunk.css.map",
+    "static/js/2.d297557c.chunk.js.LICENSE.txt": "/Tooltip/static/js/2.d297557c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33c194d2.js",
+    "static/css/2.673b3409.chunk.css",
+    "static/js/2.d297557c.chunk.js",
+    "static/css/main.8c14d97f.chunk.css",
+    "static/js/main.fa57dc8f.chunk.js"
+  ]
+}
