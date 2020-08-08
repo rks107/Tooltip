@@ -1,7 +1,10 @@
 import React,{useState} from 'react';
+// importing rect-bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
 import DropdownButton from 'react-bootstrap/DropdownButton';
 import Dropdown from 'react-bootstrap/Dropdown';
+
+// importing Tooltip component
 import Tooltip from './Tooltip';
 
 
@@ -28,7 +31,7 @@ function App() {
               <Dropdown.Item eventKey="bottom">Bottom</Dropdown.Item>
       </DropdownButton>
       <hr/>
-      
+
       <Tooltip value = {value} />
     </div>
   );

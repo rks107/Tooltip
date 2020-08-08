@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
+
+// importing Tippy Library
 import Tippy from '@tippyjs/react';
 import 'tippy.js/dist/tippy.css';
+
+// importing some css from index.css
 import './index.css';
 
 
