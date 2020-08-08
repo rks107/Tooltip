@@ -12,8 +12,10 @@ function App() {
     setValue(e)
   }
   return (
-    <div className="App container">
-      
+    <div className="App">
+      <div className="link-share">
+         <a href="https://github.com/rks107/Tooltip">GitHub Link</a>
+      </div>
       <DropdownButton
       alignRight
       title="Dropdown"
@@ -25,7 +27,7 @@ function App() {
               <Dropdown.Item eventKey="top">Top</Dropdown.Item>
               <Dropdown.Item eventKey="bottom">Bottom</Dropdown.Item>
       </DropdownButton>
-      <hr></hr>
+      <hr/>
       
       <Tooltip value = {value} />
     </div>

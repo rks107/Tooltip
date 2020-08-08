@@ -13,7 +13,7 @@ class Greeting extends Component {
             <hr/>
             <br/>
              <Tippy placement={value} content={<span style={{color:'orange'}}> File Size : 50MB</span>}>
-                <button>Hover</button>
+                <button>Download</button>
              </Tippy>
             </div>
           );
