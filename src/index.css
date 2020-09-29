@@ -16,11 +16,39 @@ code {
   margin: 50px;
 }
 
-.link-share {
+.App__github {
   padding-bottom: 50px;
+  margin-left: 80vw;
+}
+
+.App__toolTip{
+  font-size: 40px;
+  font-weight: 800;
+  color: '#777';
 }
 
 .tippy {
   margin: 100px;
+}
+
+.tippy h4 span{
+  color: brown;
+  font-weight: 900;
+  font-size: 25px;
+}
+
+button{
+  position: fixed;
+  height: 50px;
+  width: 150px;
+  background-color: green;
+  border: none;
+  color: white;
+  font-weight: 900;
+}
+
+.toolTip {
+  position: relative;
+  color: orange;
 }
 
